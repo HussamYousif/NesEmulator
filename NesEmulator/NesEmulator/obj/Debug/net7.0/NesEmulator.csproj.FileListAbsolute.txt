@@ -1,0 +1,15 @@
+C:\Users\hussam\IdeaProjects\NesEmulator\NesEmulator\NesEmulator\bin\Debug\net7.0\NesEmulator.exe
+C:\Users\hussam\IdeaProjects\NesEmulator\NesEmulator\NesEmulator\bin\Debug\net7.0\NesEmulator.deps.json
+C:\Users\hussam\IdeaProjects\NesEmulator\NesEmulator\NesEmulator\bin\Debug\net7.0\NesEmulator.runtimeconfig.json
+C:\Users\hussam\IdeaProjects\NesEmulator\NesEmulator\NesEmulator\bin\Debug\net7.0\NesEmulator.dll
+C:\Users\hussam\IdeaProjects\NesEmulator\NesEmulator\NesEmulator\bin\Debug\net7.0\NesEmulator.pdb
+C:\Users\hussam\IdeaProjects\NesEmulator\NesEmulator\NesEmulator\obj\Debug\net7.0\NesEmulator.csproj.AssemblyReference.cache
+C:\Users\hussam\IdeaProjects\NesEmulator\NesEmulator\NesEmulator\obj\Debug\net7.0\NesEmulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hussam\IdeaProjects\NesEmulator\NesEmulator\NesEmulator\obj\Debug\net7.0\NesEmulator.AssemblyInfoInputs.cache
+C:\Users\hussam\IdeaProjects\NesEmulator\NesEmulator\NesEmulator\obj\Debug\net7.0\NesEmulator.AssemblyInfo.cs
+C:\Users\hussam\IdeaProjects\NesEmulator\NesEmulator\NesEmulator\obj\Debug\net7.0\NesEmulator.csproj.CoreCompileInputs.cache
+C:\Users\hussam\IdeaProjects\NesEmulator\NesEmulator\NesEmulator\obj\Debug\net7.0\NesEmulator.dll
+C:\Users\hussam\IdeaProjects\NesEmulator\NesEmulator\NesEmulator\obj\Debug\net7.0\refint\NesEmulator.dll
+C:\Users\hussam\IdeaProjects\NesEmulator\NesEmulator\NesEmulator\obj\Debug\net7.0\NesEmulator.pdb
+C:\Users\hussam\IdeaProjects\NesEmulator\NesEmulator\NesEmulator\obj\Debug\net7.0\NesEmulator.genruntimeconfig.cache
+C:\Users\hussam\IdeaProjects\NesEmulator\NesEmulator\NesEmulator\obj\Debug\net7.0\ref\NesEmulator.dll
